@@ -15,7 +15,7 @@ My goal is to improve my Python skills and knowledge and to become a better prog
 
 ## Progress
 
-I will update my progress daily on GitHub: GitHub: https://github.com/Adithya-Sakaray/100-Days-of-Code-Python. You can follow along to see what I'm working on and what I'm learning.
+I will update my progress daily on [GitHub](https://github.com/Aadhithya-D/100-Days-of-Code-Python). You can follow along to see what I'm working on and what I'm learning.
 
 ## Conclusion
 
